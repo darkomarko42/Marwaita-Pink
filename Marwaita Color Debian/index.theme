@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Marwaita Color Debian
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Marwaita Color Debian
+MetacityTheme=Marwaita Color Debian
+IconTheme=Luna-Light
+CursorTheme=Luna
+CursorSize=24
