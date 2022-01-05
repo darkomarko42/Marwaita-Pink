@@ -343,19 +343,19 @@ StScrollBar StButton:checked
 /* Images */
 
 .workspace-close-button,
-.window-close { background-image: url("../general/dark-close-window.svg"); height: 32px; width: 32px;}
+.window-close { background-image: url("../general/close-window.svg"); height: 32px; width: 32px;}
 
 .workspace-add-button {
-	background-image: url("../general/dark-add-workspace.svg");
+	background-image: url("../general/add-workspace.svg");
 	height: 200px;
 	width: 48px;
 	transition-duration: 300;
 }
 
 .calendar-change-month-back,
-.calendar-change-month-forward:rtl{background-image: url("../general/dark-calendar-arrow-left.svg");}
+.calendar-change-month-forward:rtl{background-image: url("../general/calendar-arrow-left.svg");}
 .calendar-change-month-back:rtl,
-.calendar-change-month-forward {background-image: url("../general/dark-calendar-arrow-right.svg");}
+.calendar-change-month-forward {background-image: url("../general/calendar-arrow-right.svg");}
 
 .ripple-box {
 	width: 104px;
@@ -377,12 +377,12 @@ StScrollBar StButton:checked
 .check-box:focus StBin {
     width: 16px;
     height: 16px;
-    background-image: url("../general/dark-checkbox-off.svg");
+    background-image: url("../general/checkbox-off.svg");
 }
 
 .check-box:checked StBin,
 .check-box:focus:checked StBin{
-    background-image: url("../general/dark-checkbox.svg");
+    background-image: url("../general/checkbox.svg");
 }
 
 .check-box StLabel {  font-weight: normal; }
@@ -397,12 +397,12 @@ StScrollBar StButton:checked
 .radiobutton:focus StBin {
     width: 16px;
     height: 16px;
-    background-image: url("../general/dark-radiobutton-off.svg");
+    background-image: url("../general/radiobutton-off.svg");
     border-radius: 9999px;
 }
 
 .radiobutton:checked StBin,
-.radiobutton:focus:checked StBin { background-image: url("../general/dark-radiobutton.svg"); }
+.radiobutton:focus:checked StBin { background-image: url("../general/radiobutton.svg"); }
 
 .radiobutton StLabel {
     padding-top: 4px;
@@ -413,11 +413,11 @@ StScrollBar StButton:checked
 .toggle-switch-intl {
     width: 32px;
     height: 16px;
-    background-image: url("../general/dark-switch-off.svg");
+    background-image: url("../general/switch-off.svg");
 }
 
 .toggle-switch-us:checked,
-.toggle-switch-intl:checked{ background-image: url("../general/dark-switch-on.svg"); }
+.toggle-switch-intl:checked{ background-image: url("../general/switch-on.svg"); }
 
 .tile-preview,
 .tile-hud {	background-color: rgba(100,100,100, 0.3); border: 1px solid rgba(100,100,100, 0.5);}
