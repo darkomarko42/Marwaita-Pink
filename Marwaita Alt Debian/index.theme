@@ -7,6 +7,6 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=Marwaita Alt Debian
 MetacityTheme=Marwaita Alt Debian
-IconTheme=Luna-Light
+IconTheme=Luna
 CursorTheme=Luna
 CursorSize=24

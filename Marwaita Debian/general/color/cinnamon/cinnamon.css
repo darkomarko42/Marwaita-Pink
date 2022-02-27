@@ -1,4 +1,4 @@
-*{color: black; icon-size: 16px; selection-background-color: rgba(0,0,0, 0.15); selected-color: black;}
+*{color: white; icon-size: 16px; selection-background-color: rgba(255,255,255, 0.15); selected-color: white;}
 
 #panel,
 .menu-application-button:highlighted,
@@ -12,7 +12,7 @@
 
 .calendar-day-heading,
 .calendar-today-home-button *
-{color: rgba(0,0,0, 0.5);}
+{color: rgba(255,255,255, 0.5);}
 
 .popup-subtitle-menu-item,
 .calendar-other-month-day,
@@ -24,7 +24,7 @@
 .popup-menu-item:insensitive *,
 .popup-inactive-menu-item *,
 .popup-menu-item:insensitive,
-.popup-inactive-menu-item{color: rgba(0,0,0, 0.35);}
+.popup-inactive-menu-item{color: rgba(255,255,255, 0.35);}
 
 .menu-category-button-greyed StIcon {opacity: 0.5;}
 
@@ -157,7 +157,7 @@ StButton.popup-menu-item,
 {background-color: transparent; border-color: transparent; box-shadow: none;}
 
 #panel,
-.sound-player-overlay{background-color: rgba(199,67,114, 0.8);}
+.sound-player-overlay{background-color: rgba(197,67,114, 0.8);}
 
 StEntry,
 .menu-favorites-box,
@@ -187,20 +187,20 @@ StButton,
 .window-close:active,
 .window-close:checked{background-color: #c74372;}
 
-.popup-sub-menu{ background-color: rgba(0,0,0, 0.1);}
+.popup-sub-menu{ background-color: rgba(255,255,255, 0.1);}
 
 StButton,
 #notification .notification-button{box-shadow: none;}
 
 StButton:hover,
 #notification .notification-button:hover
-{box-shadow: inset 0 0 0 1px rgba(0,0,0, 0.3);}
+{box-shadow: inset 0 0 0 1px rgba(255,255,255, 0.3);}
 
 StButton:active,
 StButton:checked,
 #notification .notification-button:active,
 #notification .notification-button:checked
-{box-shadow: inset 0 0 0 9999px rgba(0,0,0, 0.1);}
+{box-shadow: inset 0 0 0 9999px rgba(255,255,255, 0.1);}
 
 .applet-box:hover,
 .popup-menu-item:active,
@@ -222,7 +222,7 @@ StButton:checked,
 .calendar-change-month-forward:hover,
 .calendar-event-button:hover,
 .menu StButton:hover
-{ background-color: rgba(0,0,0, 0.1); box-shadow: none;}
+{ background-color: rgba(255,255,255, 0.1); box-shadow: none;}
 
 .window-list-item-box:focus,
 .window-list-item-box:active:focus,
@@ -234,27 +234,27 @@ StButton:checked,
 .sound-player-overlay StButton:active,
 .calendar-change-month-back:active,
 .calendar-change-month-forward:active
-{ background-color: rgba(0,0,0, 0.15); box-shadow: none;}
+{ background-color: rgba(255,255,255, 0.15); box-shadow: none;}
 
 .window-list-item-box,
 .grouped-window-list-item-box:active,
 .calendar-event-button { background-color: rgba(0,0/**/,0, 0.01);}
 
 .panel-bottom .window-list-item-box:focus,
-.panel-bottom .grouped-window-list-item-box:active{ box-shadow: inset 0 -2px black;}
+.panel-bottom .grouped-window-list-item-box:active{ box-shadow: inset 0 -2px white;}
 
 .panel-top .window-list-item-box:focus,
-.panel-top .grouped-window-list-item-box:active{ box-shadow: inset 0 2px black;}
+.panel-top .grouped-window-list-item-box:active{ box-shadow: inset 0 2px white;}
 
 .panel-right .window-list-item-box:focus,
-.panel-right .grouped-window-list-item-box:active{ box-shadow: inset -2px 0 black;}
+.panel-right .grouped-window-list-item-box:active{ box-shadow: inset -2px 0 white;}
 
 .panel-left .window-list-item-box:focus,
-.panel-left .grouped-window-list-item-box:active{ box-shadow: inset 2px 0 black;}
+.panel-left .grouped-window-list-item-box:active{ box-shadow: inset 2px 0 white;}
 
 .progress{background-color: rgba(51,185,84,0.5);}
 
-.panel-dummy{ background-color: rgba(0,0,0, 0.5);}
+.panel-dummy{ background-color: rgba(255,255,255, 0.5);}
 
 /* Borders */
 
@@ -302,10 +302,10 @@ StEntry,
 .panel-top,
 .panel-left,
 .panel-right
-{border-color: rgba(0,0/**/,0, 0.7);}
+{border-color: rgba(0,0/**/,0, 0.5);}
 
 .popup-separator-menu-item,
-.calendar-events-main-box .separator{background-color: rgba(0,0/**/,0, 0.7);}
+.calendar-events-main-box .separator{background-color: rgba(0,0/**/,0, 0.5);}
 
 /* Border Radius */
 
@@ -329,7 +329,7 @@ StButton,
 .info-osd,
 .osd-window,
 .calendar-event-button
-{border-radius: 4px;}
+{border-radius: 6px;}
 
 .popup-sub-menu,
 .popup-menu-item
@@ -358,8 +358,8 @@ StScrollBar StButton{border-radius: 9999px; border-color: transparent; backgroun
 .popup-slider-menu-item {
     height: 1em;
     -slider-height: 6px;
-    -slider-background-color: rgba(0,0,0, 0.2);
-    -slider-active-background-color: black;
+    -slider-background-color: rgba(255,255,255, 0.2);
+    -slider-active-background-color: white;
     -slider-border-width: 1px;
     -slider-handle-radius: 0em;
 }
@@ -373,24 +373,24 @@ StScrollBar StButton:checked,
 .menu StScrollBar StButton:hover,
 .menu StScrollBar StButton:active,
 .menu StScrollBar StButton:checked
-{background-color: black; box-shadow: none;}
+{background-color: white; box-shadow: none;}
 
 /* Images */
 
 .workspace-close-button,
-.window-close { background-image: url("../general/close-window.svg"); height: 32px; width: 32px;}
+.window-close { background-image: url("../general/dark-close-window.svg"); height: 32px; width: 32px;}
 
 .workspace-add-button {
-	background-image: url("../general/add-workspace.svg");
+	background-image: url("../general/dark-add-workspace.svg");
 	height: 200px;
 	width: 48px;
 	transition-duration: 300;
 }
 
 .calendar-change-month-back,
-.calendar-change-month-forward:rtl{background-image: url("../general/calendar-arrow-left.svg");}
+.calendar-change-month-forward:rtl{background-image: url("../general/dark-calendar-arrow-left.svg");}
 .calendar-change-month-back:rtl,
-.calendar-change-month-forward {background-image: url("../general/calendar-arrow-right.svg");}
+.calendar-change-month-forward {background-image: url("../general/dark-calendar-arrow-right.svg");}
 
 .calendar-day-event-dot {
 	margin: 2px;
@@ -419,12 +419,12 @@ StScrollBar StButton:checked,
 .check-box:focus StBin {
     width: 16px;
     height: 16px;
-    background-image: url("../general/checkbox-off.svg");
+    background-image: url("../general/dark-checkbox-off.svg");
 }
 
 .check-box:checked StBin,
 .check-box:focus:checked StBin{
-    background-image: url("../general/checkbox.svg");
+    background-image: url("../general/dark-checkbox.svg");
 }
 
 .check-box StLabel {  font-weight: normal; }
@@ -439,12 +439,12 @@ StScrollBar StButton:checked,
 .radiobutton:focus StBin {
     width: 16px;
     height: 16px;
-    background-image: url("../general/radiobutton-off.svg");
+    background-image: url("../general/dark-radiobutton-off.svg");
     border-radius: 9999px;
 }
 
 .radiobutton:checked StBin,
-.radiobutton:focus:checked StBin { background-image: url("../general/radiobutton.svg"); }
+.radiobutton:focus:checked StBin { background-image: url("../general/dark-radiobutton.svg"); }
 
 .radiobutton StLabel {
     padding-top: 4px;
@@ -455,29 +455,29 @@ StScrollBar StButton:checked,
 .toggle-switch-intl {
     width: 32px;
     height: 16px;
-    background-image: url("../general/switch-off.svg");
+    background-image: url("../general/dark-switch-off.svg");
 }
 
 .toggle-switch-us:checked,
-.toggle-switch-intl:checked{ background-image: url("../general/switch-on.svg"); }
+.toggle-switch-intl:checked{ background-image: url("../general/dark-switch-on.svg"); }
 
 .tile-preview,
 .tile-hud {	background-color: rgba(100,100,100, 0.3); border: 1px solid rgba(100,100,100, 0.5);}
 
 .applet-separator-line {
     width: 1px;
-    background: rgba(0,0,0, 0.2);
+    background: rgba(255,255,255, 0.2);
 }
 
 .applet-separator-line-vertical {
-    border: 0px solid rgba(0,0,0, 0.2);
+    border: 0px solid rgba(255,255,255, 0.2);
     border-bottom-width: 1px;
 }
 
 /* this is for user applet */
-.user-label { color: black;}
+.user-label { color: white;}
 
-.user-icon{border: 2px solid black;}
+.user-icon{border: 2px solid white;}
 
 /* Tooltip */
 
