@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="14"
+   height="14"
+   viewBox="0 0 14 14"
    version="1.1"
    id="svg4"
-   sodipodi:docname="checkbox-mixed-symbolic.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="bullet-symbolic.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -37,26 +37,25 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="994"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="29.5"
-     inkscape:cx="7.6949153"
-     inkscape:cy="10.355932"
+     inkscape:zoom="14.75"
+     inkscape:cx="7.0169492"
+     inkscape:cy="11.186441"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0"
-     width="16px" />
-  <rect
-     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.79355"
-     id="rect1061"
-     width="8"
-     height="8"
-     x="4"
-     y="4"
-     rx="0"
-     ry="0" />
+     width="14px"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     d="M 7,3 C 4.7908609,3 3,4.7908609 3,7 3,9.209139 4.7908609,11 7,11 9.209139,11 11,9.209139 11,7 11,4.7908609 9.209139,3 7,3 Z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssss"
+     style="stroke-width:1" />
 </svg>

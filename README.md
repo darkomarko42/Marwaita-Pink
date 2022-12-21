@@ -1,5 +1,5 @@
-# Marwaita Debian
-GTK theme for Budgie desktop with Debian color Palette
+# Marwaita
+GTK theme for Cinnamon desktop
 
 ## Requirments
 
@@ -7,4 +7,3 @@ GTK theme for Budgie desktop with Debian color Palette
 
 ### GTK2 engines requirment
 - GTK2 Murrine engine.
-- GTK2 Clearlooks engine.
