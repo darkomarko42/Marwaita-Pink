@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Marwaita-Pink
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Marwaita-Pink
+MetacityTheme=Marwaita-Pink
+IconTheme=Marwaita
+CursorTheme=Marwaita
+CursorSize=24
