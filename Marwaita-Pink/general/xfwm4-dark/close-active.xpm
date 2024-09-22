@@ -2,14 +2,14 @@
 static char *close_active[] = {
 /* columns rows colors chars-per-pixel */
 "34 34 8 1 ",
-"  c #34393F",
-". c #363B41",
-"X c #707A87",
-"o c #707B88",
-"O c #747F8C",
-"+ c #A6B5C8",
-"@ c #A7B6C9",
-"# c #CEE0F7",
+"  c #41393A",
+". c #423B3C",
+"X c #8A7A7D",
+"o c #8B7B7D",
+"O c #8F7F81",
+"+ c #CBB5B8",
+"@ c #CCB6B9",
+"# c #FCE0E5",
 /* pixels */
 "                                  ",
 "                                  ",

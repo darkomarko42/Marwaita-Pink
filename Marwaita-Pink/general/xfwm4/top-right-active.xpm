@@ -3,13 +3,13 @@ static char *top_right_active[] = {
 /* columns rows colors chars-per-pixel */
 "8 42 4 1 ",
 "  c None",
-". c #CCD5E0",
-"X c #CCD5E1",
-"o c #CCD5E2",
+". c #E4D5D7",
+"X c #E4D5D8",
+"o c #E4D5D9",
 /* pixels */
 "XXX.    ",
 "XXXXXX  ",
-"XXXXXXX ",
+"XXXXXX. ",
 "XXXXXXX ",
 "XXXXXXXo",
 "XXXXXXXX",
