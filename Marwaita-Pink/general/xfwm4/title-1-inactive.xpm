@@ -2,7 +2,7 @@
 static char *title_1_inactive[] = {
 /* columns rows colors chars-per-pixel */
 "2 42 1 1 ",
-"  c #F3ECED",
+"  c #E2E8F0",
 /* pixels */
 "  ",
 "  ",

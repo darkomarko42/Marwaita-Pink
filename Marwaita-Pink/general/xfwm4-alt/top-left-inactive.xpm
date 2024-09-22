@@ -1,18 +1,16 @@
 /* XPM */
 static char *top_left_inactive[] = {
 /* columns rows colors chars-per-pixel */
-"8 42 4 1 ",
+"8 42 2 1 ",
 "  c None",
-". c #F39FAD",
-"X c #F49FAD",
-"o c #F3A0AD",
+". c #7CA6DA",
 /* pixels */
-"    XX..",
+"    ....",
 "  ......",
 " .......",
 " .......",
-"X.......",
-"o.......",
+"........",
+"........",
 "........",
 "........",
 "........",

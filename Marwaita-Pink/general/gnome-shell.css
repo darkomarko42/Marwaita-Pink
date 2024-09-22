@@ -126,7 +126,7 @@ StScrollBar StButton#vhandle,
 StScrollBar StButton#hhandle,
 .notification-button,
 .modal-dialog .modal-dialog-linked-button
-{background-color: #474344; /*Base background*/ }
+{background-color: #363132; /*Base background*/ }
 
 .icon-button.flat,
 .window-close
