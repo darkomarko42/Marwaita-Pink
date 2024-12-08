@@ -1,13 +1,9 @@
 /* XPM */
 static char *title_1_inactive[] = {
 /* columns rows colors chars-per-pixel */
-"2 42 1 1 ",
-"  c #F39DAC",
+"2 38 1 1 ",
+"  c #F2A1AF",
 /* pixels */
-"  ",
-"  ",
-"  ",
-"  ",
 "  ",
 "  ",
 "  ",
